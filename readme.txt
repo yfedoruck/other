@@ -1,1 +1,0 @@
-You'd edit the files in ~/.config/geany/filedefs, copying from /usr/share/geany where necessary.
